@@ -55,3 +55,11 @@ Result:
     ...
 </select>
 ```
+
+
+
+
+[DEMO](https://jsfiddle.net/anowarcst/y1svpbf8/14/?fbclid=IwAR0SvK7ZOF3DRCm2rYHicG1u952yF-wXdqPrTJyJV5O1E3musDH6fWIaWBQ)
+
+
+Thanks [Anowar](https://github.com/AnowarCST).
